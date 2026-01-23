@@ -1,0 +1,1001 @@
+age,gender,major,monthly_income,stationary,food,shoping,friends,entertainment,personal,others,mode
+19,Non-binary,Psychology,958,188,296,709,123,41,78,72,Credit/Debit Card
+24,1,Economics,1006,252,365,557,85,74,92,68,Credit/Debit Card
+24,Non-binary,Economics,734,99,220,666,137,130,23,133,0
+23,1,Computer Science,617,223,289,652,114,99,30,55,1
+20,1,Computer Science,810,194,372,825,168,48,71,104,Credit/Debit Card
+25,Non-binary,Computer Science,523,131,386,413,122,73,38,99,1
+23,1,Engineering,1354,213,398,812,101,21,38,48,Credit/Debit Card
+23,1,Economics,631,251,269,571,92,37,90,62,1
+22,Non-binary,Computer Science,1402,155,354,599,82,123,41,194,Credit/Debit Card
+18,1,Computer Science,1423,123,249,626,117,51,74,196,1
+23,0,Biology,762,183,262,660,58,98,21,50,Credit/Debit Card
+25,0,Engineering,1068,228,243,734,200,57,57,146,Credit/Debit Card
+21,0,Economics,719,126,280,894,120,41,50,114,Credit/Debit Card
+19,1,Biology,1176,274,234,626,50,20,77,103,1
+24,Non-binary,Economics,1496,92,151,657,63,124,64,117,0
+22,Non-binary,Computer Science,1227,175,328,884,167,111,96,109,0
+23,1,Psychology,1419,141,361,883,200,76,22,76,0
+21,1,Computer Science,1454,188,357,754,110,33,24,46,1
+19,1,Psychology,1487,51,292,883,69,75,60,164,Credit/Debit Card
+20,1,Engineering,1157,216,196,886,131,57,39,174,1
+19,0,Psychology,1180,67,254,597,195,51,21,46,Credit/Debit Card
+24,0,Computer Science,516,282,286,814,180,55,25,184,1
+18,Non-binary,Biology,1225,294,159,473,134,37,86,43,0
+24,Non-binary,Economics,582,143,348,421,138,62,85,60,Credit/Debit Card
+19,1,Economics,1062,76,238,731,103,111,95,83,1
+25,1,Biology,1054,211,400,789,81,95,74,136,1
+20,0,Economics,667,288,173,762,185,53,38,137,Credit/Debit Card
+20,1,Psychology,796,260,291,664,179,127,21,80,Credit/Debit Card
+24,Non-binary,Psychology,905,141,163,444,131,132,31,128,Credit/Debit Card
+23,Non-binary,Engineering,531,95,394,742,179,64,62,173,1
+23,Non-binary,Economics,1426,137,296,677,110,146,21,26,1
+23,0,Psychology,1465,134,113,468,190,119,82,191,1
+24,Non-binary,Computer Science,522,147,169,860,133,123,48,150,Credit/Debit Card
+25,1,Economics,1338,244,325,468,158,98,46,80,0
+23,0,Biology,1363,99,185,695,166,116,68,161,1
+21,0,Biology,1328,204,254,718,93,74,30,179,0
+22,0,Engineering,1350,282,372,462,147,149,92,190,0
+23,Non-binary,Computer Science,1309,186,178,600,148,88,78,172,0
+21,1,Biology,965,249,249,695,88,49,29,31,0
+20,1,Engineering,600,67,309,791,178,22,29,105,1
+24,1,Engineering,605,151,165,653,189,86,82,156,1
+25,0,Economics,804,153,289,517,147,125,43,127,0
+23,1,Economics,1274,249,137,755,55,103,50,175,0
+23,0,Psychology,509,264,391,511,192,57,85,141,Credit/Debit Card
+23,1,Economics,1285,230,253,740,182,32,92,39,Credit/Debit Card
+18,0,Computer Science,929,183,204,590,196,129,80,55,Credit/Debit Card
+25,Non-binary,Psychology,1163,185,261,549,86,102,21,88,0
+19,0,Psychology,1195,88,167,920,57,113,60,106,1
+25,0,Psychology,1036,105,122,918,86,62,88,137,0
+24,1,Economics,588,198,163,604,101,89,23,42,1
+20,1,Engineering,1377,187,355,786,137,45,90,27,0
+21,Non-binary,Economics,1451,128,140,661,67,31,48,128,Credit/Debit Card
+19,0,Computer Science,669,75,193,837,115,121,65,58,0
+18,0,Psychology,1294,71,115,806,97,24,31,63,1
+24,Non-binary,Engineering,941,146,372,963,197,32,86,198,1
+22,1,Engineering,1131,237,339,926,142,145,93,158,0
+24,Non-binary,Computer Science,854,133,223,525,145,47,91,170,0
+20,0,Economics,1158,299,216,960,193,40,61,141,1
+25,Non-binary,Biology,668,221,377,466,161,60,80,86,1
+20,1,Biology,695,200,304,626,104,47,71,191,1
+20,0,Engineering,1375,149,132,416,193,67,27,43,1
+23,1,Engineering,1084,141,230,721,76,86,34,144,1
+18,1,Biology,733,241,298,977,164,85,78,168,0
+20,Non-binary,Economics,1061,77,370,464,58,135,34,171,1
+19,1,Computer Science,1352,190,144,477,82,109,84,80,1
+19,0,Biology,1092,257,150,916,143,90,29,177,1
+24,0,Economics,963,139,260,883,79,135,64,74,1
+21,1,Engineering,1204,287,283,488,111,115,56,24,Credit/Debit Card
+23,0,Engineering,1184,171,115,940,185,58,45,169,1
+22,0,Economics,562,109,306,986,105,90,99,34,1
+19,0,Economics,1218,240,234,451,169,105,21,38,1
+21,Non-binary,Computer Science,1235,228,390,745,150,96,80,131,0
+23,Non-binary,Economics,1424,91,328,684,118,143,88,54,0
+22,1,Biology,1176,106,305,861,97,103,43,67,1
+25,1,Engineering,1334,236,180,873,186,23,61,33,Credit/Debit Card
+19,1,Computer Science,1442,105,153,733,166,29,80,109,0
+22,0,Computer Science,983,259,159,648,128,124,97,134,0
+24,1,Computer Science,914,61,149,564,55,129,79,33,Credit/Debit Card
+22,Non-binary,Economics,898,148,175,868,129,114,74,77,0
+23,Non-binary,Economics,1164,199,331,631,125,115,48,196,0
+18,1,Biology,1484,55,299,518,74,104,87,193,1
+19,1,Biology,1127,193,385,623,94,29,57,31,1
+24,Non-binary,Biology,1105,109,235,841,164,144,100,36,0
+19,0,Computer Science,1351,75,186,678,178,34,95,75,1
+22,1,Biology,930,174,349,490,54,80,51,41,1
+25,Non-binary,Computer Science,1346,156,376,718,152,94,81,83,Credit/Debit Card
+25,Non-binary,Computer Science,1240,180,315,618,177,41,63,138,Credit/Debit Card
+25,1,Computer Science,727,121,269,840,119,132,40,125,Credit/Debit Card
+20,1,Economics,622,264,234,431,184,54,84,177,1
+23,0,Economics,800,51,144,421,97,103,66,92,Credit/Debit Card
+18,Non-binary,Psychology,1199,238,260,778,82,74,82,62,Credit/Debit Card
+19,0,Economics,1006,268,357,411,109,107,94,145,0
+23,Non-binary,Economics,1295,64,397,791,144,59,79,113,1
+18,0,Economics,1222,63,127,862,180,91,90,122,1
+18,1,Computer Science,1384,85,237,809,174,21,72,104,Credit/Debit Card
+18,1,Engineering,1035,95,182,760,57,119,21,119,Credit/Debit Card
+20,0,Economics,1395,81,258,551,130,102,84,78,Credit/Debit Card
+18,Non-binary,Biology,767,115,331,780,200,89,27,158,Credit/Debit Card
+24,1,Biology,933,106,166,787,136,112,63,29,0
+23,0,Psychology,803,146,293,931,54,142,58,41,1
+22,0,Psychology,1333,219,295,971,51,91,94,50,0
+23,1,Psychology,1115,116,341,818,136,115,22,106,1
+20,1,Psychology,920,77,295,636,143,120,96,178,0
+25,0,Psychology,780,251,216,759,99,20,38,97,0
+21,1,Psychology,882,81,305,555,103,112,28,197,1
+21,1,Computer Science,959,220,360,464,153,26,88,134,0
+25,1,Psychology,748,201,353,447,164,60,43,172,1
+21,0,Biology,810,276,112,742,173,136,63,136,1
+20,0,Computer Science,965,71,175,433,56,89,74,130,1
+24,0,Psychology,784,140,116,863,110,116,56,160,Credit/Debit Card
+22,0,Economics,970,114,344,680,156,120,79,156,1
+23,Non-binary,Economics,1349,88,205,661,129,72,28,101,Credit/Debit Card
+19,1,Psychology,760,63,268,831,84,26,92,60,Credit/Debit Card
+21,1,Computer Science,702,277,385,906,106,148,41,116,0
+21,0,Engineering,720,153,284,661,95,93,21,64,1
+22,0,Biology,1286,182,343,902,194,74,62,112,1
+22,1,Engineering,1135,97,335,629,168,113,60,62,0
+18,Non-binary,Engineering,1030,208,386,859,147,27,60,23,Credit/Debit Card
+21,1,Engineering,1265,63,122,760,122,34,48,184,Credit/Debit Card
+24,1,Psychology,1175,63,290,444,170,25,37,101,1
+23,1,Psychology,1083,257,236,640,153,62,87,59,1
+24,Non-binary,Biology,1487,183,202,765,146,145,23,44,1
+25,Non-binary,Computer Science,1327,187,278,613,179,149,38,104,0
+22,Non-binary,Economics,1095,243,253,801,167,73,33,98,Credit/Debit Card
+23,0,Biology,1460,158,377,787,176,117,78,43,1
+20,1,Engineering,1354,125,224,515,120,71,46,177,Credit/Debit Card
+20,0,Biology,836,193,301,584,160,91,46,53,0
+22,0,Engineering,1212,120,400,897,53,117,88,105,Credit/Debit Card
+20,Non-binary,Engineering,1483,275,182,554,138,72,35,190,Credit/Debit Card
+22,Non-binary,Computer Science,998,103,297,516,96,129,78,63,Credit/Debit Card
+22,Non-binary,Biology,885,126,317,907,144,149,89,81,Credit/Debit Card
+25,0,Engineering,726,110,177,738,195,92,77,50,Credit/Debit Card
+25,1,Psychology,1037,272,367,481,130,56,57,22,1
+22,1,Engineering,1456,284,201,733,94,123,34,97,1
+24,0,Economics,676,227,135,600,75,25,22,133,1
+24,1,Psychology,571,139,133,424,149,29,58,109,1
+23,0,Computer Science,1213,165,246,768,196,52,68,40,1
+24,1,Psychology,1112,183,357,498,170,92,84,197,0
+18,1,Economics,1100,78,201,593,197,92,44,45,Credit/Debit Card
+21,0,Psychology,526,197,159,747,183,67,21,108,0
+22,0,Computer Science,951,95,158,818,68,76,63,96,1
+23,0,Computer Science,1301,278,117,899,51,22,22,150,0
+25,0,Psychology,1103,133,375,676,149,76,33,169,1
+24,0,Computer Science,1083,235,111,644,80,76,42,73,0
+23,1,Engineering,860,117,235,614,115,71,72,126,0
+18,0,Biology,1354,126,348,969,75,49,93,178,0
+23,0,Biology,877,52,221,465,96,39,73,64,Credit/Debit Card
+21,0,Engineering,649,200,224,931,161,24,80,180,Credit/Debit Card
+24,0,Computer Science,897,290,358,799,125,80,23,46,Credit/Debit Card
+21,Non-binary,Psychology,1147,225,102,581,188,98,72,166,1
+23,Non-binary,Biology,1367,213,260,916,78,145,71,199,Credit/Debit Card
+21,0,Computer Science,647,214,149,807,61,136,26,107,0
+21,1,Engineering,656,95,329,931,188,120,92,198,Credit/Debit Card
+19,Non-binary,Economics,1131,118,328,468,177,26,69,120,1
+19,1,Psychology,1319,229,159,677,73,140,38,31,0
+22,1,Economics,917,277,128,434,184,98,29,66,Credit/Debit Card
+19,1,Biology,872,153,232,944,166,58,64,86,Credit/Debit Card
+20,0,Economics,901,297,295,737,84,66,80,93,1
+18,0,Engineering,536,111,255,676,82,128,35,79,Credit/Debit Card
+25,1,Psychology,506,80,251,998,175,82,82,56,1
+23,1,Economics,1201,199,291,459,56,100,81,131,Credit/Debit Card
+25,Non-binary,Computer Science,1189,66,159,815,79,113,68,37,0
+23,1,Economics,546,53,282,747,140,35,38,181,Credit/Debit Card
+19,Non-binary,Biology,1181,89,196,559,137,46,60,200,0
+18,1,Economics,810,98,340,771,51,120,88,113,0
+19,Non-binary,Engineering,855,174,400,633,146,148,42,122,0
+23,0,Biology,1354,112,385,631,160,34,32,60,0
+20,0,Psychology,1056,187,183,405,194,61,66,22,0
+19,0,Economics,620,285,243,704,197,135,83,197,Credit/Debit Card
+24,1,Economics,1207,241,201,638,143,112,29,110,0
+21,Non-binary,Psychology,621,278,199,960,124,115,48,68,0
+25,1,Engineering,1033,259,104,517,64,131,66,104,1
+19,Non-binary,Psychology,722,267,102,450,82,38,65,125,1
+20,0,Psychology,1304,300,180,847,92,90,64,113,1
+21,Non-binary,Biology,912,86,348,991,181,134,70,184,Credit/Debit Card
+23,0,Biology,963,135,253,778,105,124,46,160,0
+18,1,Engineering,1286,56,103,925,129,50,93,105,1
+18,0,Economics,1104,90,362,683,185,79,91,64,Credit/Debit Card
+23,Non-binary,Economics,697,109,394,734,192,80,73,195,0
+21,0,Engineering,1230,169,285,540,99,101,57,43,0
+25,1,Engineering,1345,68,311,919,133,149,66,162,1
+20,1,Biology,1411,219,151,874,77,21,44,176,1
+24,1,Economics,1355,264,311,617,79,35,73,164,Credit/Debit Card
+24,Non-binary,Economics,608,159,336,568,186,82,89,142,1
+22,1,Biology,566,289,360,834,64,48,86,120,Credit/Debit Card
+25,1,Economics,1310,72,219,837,60,82,51,171,1
+24,1,Biology,1354,199,335,849,60,77,45,125,Credit/Debit Card
+23,0,Economics,1020,240,305,943,156,123,53,63,0
+24,Non-binary,Engineering,1394,146,268,416,133,22,68,185,0
+22,Non-binary,Psychology,954,196,159,717,195,138,26,85,Credit/Debit Card
+21,0,Biology,1448,103,171,624,172,59,89,158,1
+21,Non-binary,Biology,968,129,108,670,56,26,66,151,Credit/Debit Card
+19,0,Economics,1450,136,255,845,89,110,85,110,Credit/Debit Card
+22,1,Computer Science,1316,229,153,953,179,105,66,137,Credit/Debit Card
+24,0,Computer Science,904,201,310,875,197,91,83,101,0
+23,1,Computer Science,1488,158,112,545,193,21,64,86,0
+20,1,Psychology,893,222,131,469,192,73,84,74,0
+21,0,Biology,527,185,390,683,194,127,65,193,Credit/Debit Card
+24,0,Biology,804,151,347,927,167,114,35,169,Credit/Debit Card
+25,1,Engineering,547,147,164,633,94,123,25,37,Credit/Debit Card
+19,Non-binary,Computer Science,523,208,180,438,65,108,59,132,0
+24,1,Economics,1040,196,323,701,97,93,62,64,Credit/Debit Card
+24,0,Computer Science,918,62,113,759,181,99,81,199,Credit/Debit Card
+23,1,Biology,504,199,237,997,69,111,58,195,Credit/Debit Card
+24,1,Economics,1203,292,249,858,157,132,94,49,0
+20,1,Psychology,951,287,366,453,121,71,65,122,1
+24,Non-binary,Psychology,857,160,147,587,126,117,85,143,1
+19,0,Psychology,812,296,108,744,189,31,81,34,0
+18,0,Computer Science,540,113,173,746,147,139,29,118,Credit/Debit Card
+19,Non-binary,Psychology,889,113,225,673,113,148,40,175,0
+18,Non-binary,Psychology,992,276,241,533,84,65,81,51,Credit/Debit Card
+21,0,Biology,760,86,291,567,94,141,97,44,1
+25,0,Biology,1199,70,207,533,123,104,76,192,Credit/Debit Card
+20,1,Biology,578,58,139,488,168,105,92,92,Credit/Debit Card
+24,1,Economics,994,79,143,487,54,74,53,22,0
+18,Non-binary,Economics,552,71,307,937,77,21,52,77,1
+21,0,Computer Science,1444,125,396,607,189,76,80,78,Credit/Debit Card
+19,1,Psychology,1203,288,182,654,108,147,38,128,1
+25,1,Computer Science,1481,159,157,982,162,30,76,166,Credit/Debit Card
+25,Non-binary,Economics,700,284,206,846,108,70,23,142,Credit/Debit Card
+25,1,Economics,1087,116,155,503,186,31,31,200,1
+23,0,Economics,672,61,153,435,180,75,56,82,1
+21,0,Computer Science,825,89,181,589,54,113,55,176,Credit/Debit Card
+24,0,Computer Science,1033,229,374,806,86,78,31,77,0
+25,Non-binary,Engineering,774,271,324,942,73,107,77,66,Credit/Debit Card
+23,0,Engineering,1365,121,265,936,52,46,85,115,Credit/Debit Card
+25,Non-binary,Economics,810,112,206,938,180,82,45,98,1
+22,0,Economics,856,196,391,967,112,43,71,139,1
+21,1,Psychology,985,135,110,481,141,103,42,196,Credit/Debit Card
+22,Non-binary,Biology,919,58,119,788,170,124,34,185,Credit/Debit Card
+18,1,Biology,637,226,340,559,62,42,72,42,0
+20,0,Economics,894,69,213,689,127,116,50,51,Credit/Debit Card
+22,1,Economics,874,237,299,504,111,113,71,62,0
+22,1,Computer Science,850,212,196,777,102,98,75,106,Credit/Debit Card
+24,Non-binary,Engineering,879,222,249,921,189,111,71,133,Credit/Debit Card
+24,1,Economics,811,74,308,795,106,126,23,152,Credit/Debit Card
+21,0,Computer Science,809,217,186,505,176,70,81,91,0
+18,Non-binary,Psychology,596,126,308,567,54,149,46,21,Credit/Debit Card
+25,0,Economics,856,198,341,500,123,85,73,21,1
+25,0,Computer Science,886,198,219,676,61,99,95,188,1
+24,1,Psychology,1205,79,346,428,190,37,28,133,1
+21,Non-binary,Biology,1353,152,341,622,198,106,44,171,0
+22,0,Computer Science,1268,102,100,917,53,98,66,176,0
+23,Non-binary,Psychology,1112,266,188,737,101,46,76,159,0
+20,1,Engineering,1206,120,363,720,66,134,85,30,0
+24,0,Biology,1159,95,226,891,55,46,58,88,1
+19,Non-binary,Biology,1250,133,305,521,92,77,92,116,1
+20,Non-binary,Computer Science,1120,178,120,670,130,52,71,63,1
+24,Non-binary,Computer Science,1277,243,374,538,183,80,74,46,0
+19,0,Psychology,1442,113,307,537,157,60,39,115,1
+24,Non-binary,Biology,776,219,358,460,95,27,61,168,0
+21,1,Biology,800,125,331,438,60,22,41,78,1
+18,1,Computer Science,1078,64,232,507,175,129,55,52,Credit/Debit Card
+20,0,Computer Science,1404,122,237,760,104,28,82,56,1
+21,Non-binary,Psychology,1097,267,101,447,125,119,58,94,Credit/Debit Card
+22,Non-binary,Biology,835,243,380,834,95,39,51,110,Credit/Debit Card
+18,Non-binary,Economics,755,231,301,820,126,77,71,111,Credit/Debit Card
+19,0,Engineering,1087,177,133,872,86,73,63,32,Credit/Debit Card
+23,0,Computer Science,931,96,329,636,187,141,96,121,0
+20,1,Psychology,983,256,350,761,177,61,73,179,Credit/Debit Card
+21,Non-binary,Engineering,639,208,174,676,107,71,48,169,1
+20,0,Engineering,527,287,212,961,60,57,31,40,1
+24,0,Computer Science,744,197,134,853,115,107,73,34,1
+21,0,Economics,1118,267,287,956,112,65,92,50,1
+22,0,Engineering,1276,271,124,970,97,96,81,42,Credit/Debit Card
+25,1,Engineering,880,292,291,903,100,108,55,51,0
+23,0,Engineering,1424,156,140,854,145,35,36,153,1
+22,1,Psychology,1276,298,338,785,144,91,64,109,1
+19,Non-binary,Computer Science,697,89,274,824,200,56,31,96,1
+23,Non-binary,Computer Science,1379,211,114,946,143,92,20,110,1
+20,1,Computer Science,1466,58,283,698,135,135,96,85,Credit/Debit Card
+24,0,Biology,1126,53,259,483,63,57,43,86,0
+23,Non-binary,Biology,1126,84,206,1000,135,70,95,73,0
+21,Non-binary,Biology,618,202,192,459,145,86,81,113,0
+22,Non-binary,Biology,785,92,245,407,64,47,82,184,1
+18,Non-binary,Computer Science,770,93,171,468,104,75,22,182,0
+25,Non-binary,Psychology,1431,191,377,528,155,149,56,173,Credit/Debit Card
+18,1,Biology,1338,175,100,781,139,129,24,137,Credit/Debit Card
+25,1,Psychology,1121,170,363,407,101,60,30,124,1
+24,1,Engineering,1245,88,195,944,107,79,95,122,Credit/Debit Card
+20,1,Computer Science,748,266,100,919,142,77,60,87,1
+20,1,Biology,1389,234,152,811,91,82,33,31,Credit/Debit Card
+19,1,Engineering,1122,134,365,840,104,64,98,168,Credit/Debit Card
+23,0,Psychology,1113,79,349,773,178,135,78,127,0
+20,1,Economics,879,280,169,407,105,90,62,172,0
+18,Non-binary,Economics,1489,122,101,921,187,130,38,193,1
+22,1,Biology,869,214,379,754,127,111,64,105,0
+23,0,Psychology,1381,97,356,624,65,55,84,51,1
+21,Non-binary,Biology,1325,230,270,880,200,121,97,157,0
+20,0,Psychology,581,186,318,448,114,129,85,100,0
+22,Non-binary,Engineering,694,215,398,692,92,25,92,28,1
+24,1,Economics,615,63,200,403,109,145,79,153,1
+25,1,Economics,1394,141,222,879,84,21,67,111,Credit/Debit Card
+25,1,Biology,800,166,298,828,94,127,81,71,Credit/Debit Card
+20,0,Psychology,913,171,375,668,187,70,91,200,0
+19,0,Psychology,1243,73,106,574,190,85,97,82,1
+20,1,Economics,655,133,270,481,157,97,22,98,Credit/Debit Card
+18,0,Biology,667,204,225,906,123,81,36,137,Credit/Debit Card
+24,Non-binary,Economics,1458,265,329,505,140,138,65,198,Credit/Debit Card
+22,Non-binary,Biology,925,173,227,529,51,132,24,74,1
+21,Non-binary,Economics,1105,152,308,417,178,142,90,139,Credit/Debit Card
+18,0,Biology,737,105,135,758,160,65,80,112,0
+25,1,Computer Science,1495,213,182,767,97,135,30,21,1
+20,0,Economics,1298,214,249,717,63,72,40,26,1
+21,0,Psychology,1272,119,364,810,90,32,67,150,Credit/Debit Card
+19,1,Biology,511,117,201,917,152,147,42,126,Credit/Debit Card
+21,1,Engineering,1161,213,381,653,155,116,45,174,Credit/Debit Card
+21,0,Psychology,1112,288,292,881,93,135,82,157,1
+25,0,Economics,958,96,163,655,78,150,54,176,0
+25,Non-binary,Engineering,1176,108,319,615,93,46,96,37,Credit/Debit Card
+20,Non-binary,Engineering,727,98,253,570,76,55,49,97,0
+25,Non-binary,Biology,1483,278,136,733,103,114,22,60,Credit/Debit Card
+24,0,Computer Science,881,147,340,857,166,34,32,38,Credit/Debit Card
+21,0,Engineering,1347,222,398,562,134,43,56,34,1
+22,1,Psychology,725,192,150,822,61,133,89,95,1
+18,Non-binary,Biology,1000,246,194,859,139,102,65,152,Credit/Debit Card
+24,1,Engineering,795,114,226,454,132,117,72,132,Credit/Debit Card
+18,0,Economics,869,71,369,416,112,44,51,43,1
+24,1,Biology,543,86,295,976,153,107,36,172,Credit/Debit Card
+25,0,Economics,1470,173,178,704,104,36,50,114,Credit/Debit Card
+19,1,Economics,734,53,185,437,79,129,21,53,0
+20,1,Computer Science,669,218,290,588,176,74,23,149,1
+19,1,Psychology,1336,237,268,809,131,96,88,120,0
+21,1,Economics,1436,220,274,748,89,34,79,113,1
+21,Non-binary,Engineering,1339,70,245,509,113,101,47,41,1
+18,1,Biology,609,272,260,930,178,98,83,52,Credit/Debit Card
+21,Non-binary,Economics,1036,237,206,426,189,140,70,123,1
+25,1,Engineering,1309,263,257,923,115,78,20,78,1
+25,0,Engineering,1471,76,341,504,113,34,67,36,0
+19,0,Engineering,658,198,292,705,172,20,50,21,1
+19,0,Engineering,684,117,162,953,107,64,54,168,1
+20,0,Computer Science,907,63,152,877,170,44,47,187,Credit/Debit Card
+18,0,Computer Science,846,114,256,928,61,21,77,143,1
+18,1,Biology,1175,182,218,498,81,26,60,24,0
+25,0,Biology,659,163,142,867,77,105,79,140,Credit/Debit Card
+18,Non-binary,Economics,1488,218,152,450,120,91,81,39,0
+22,1,Psychology,1190,173,299,483,179,30,68,119,0
+19,1,Psychology,742,123,125,772,162,126,51,71,Credit/Debit Card
+23,Non-binary,Psychology,914,125,175,809,60,21,81,154,Credit/Debit Card
+19,0,Biology,1485,124,221,651,198,141,85,171,0
+20,1,Biology,582,97,112,722,188,133,66,147,Credit/Debit Card
+19,Non-binary,Engineering,1468,121,115,613,157,31,88,117,Credit/Debit Card
+25,1,Computer Science,1021,146,104,512,188,103,63,34,0
+24,0,Computer Science,760,191,394,822,88,50,48,81,1
+24,Non-binary,Economics,969,298,336,889,59,35,89,75,0
+23,1,Biology,990,114,330,594,89,54,72,125,1
+23,Non-binary,Engineering,1304,86,111,878,165,123,41,27,0
+23,0,Biology,805,285,255,409,101,49,45,129,Credit/Debit Card
+25,0,Engineering,1179,65,340,952,118,121,51,177,Credit/Debit Card
+18,Non-binary,Computer Science,573,157,229,878,131,58,88,190,1
+25,1,Psychology,843,66,226,869,196,82,98,148,1
+23,Non-binary,Biology,1085,155,170,501,136,70,46,38,1
+23,1,Biology,580,244,322,707,170,114,75,107,Credit/Debit Card
+25,1,Computer Science,975,263,316,693,177,121,62,32,0
+23,0,Psychology,602,229,378,830,83,131,54,160,Credit/Debit Card
+23,Non-binary,Economics,1103,215,394,671,121,112,47,115,0
+20,Non-binary,Psychology,816,53,136,949,165,59,30,32,1
+24,0,Engineering,1016,188,142,606,54,106,64,84,0
+23,Non-binary,Engineering,969,186,312,516,182,25,44,164,0
+21,Non-binary,Computer Science,918,127,391,949,81,121,64,159,Credit/Debit Card
+23,Non-binary,Computer Science,982,89,159,710,118,109,87,69,1
+25,0,Computer Science,1021,228,293,785,86,32,46,72,0
+22,1,Psychology,521,221,342,916,175,86,46,27,1
+24,1,Computer Science,1444,89,269,458,70,72,50,130,1
+21,0,Psychology,646,108,124,822,74,52,97,48,Credit/Debit Card
+21,1,Economics,1296,298,212,464,184,72,53,135,1
+18,Non-binary,Economics,1360,77,164,810,153,60,99,143,1
+19,1,Biology,1123,187,345,404,122,73,20,190,0
+18,1,Psychology,1020,267,123,552,138,98,63,30,1
+21,1,Computer Science,736,209,256,743,180,92,92,61,Credit/Debit Card
+23,Non-binary,Economics,931,175,155,490,146,79,95,139,0
+24,0,Psychology,1443,299,364,814,169,126,20,127,1
+22,0,Engineering,730,212,230,675,68,124,72,181,0
+25,Non-binary,Economics,561,144,147,781,88,55,95,56,1
+25,1,Economics,1212,159,378,728,65,92,79,75,0
+25,Non-binary,Computer Science,1282,108,309,594,121,58,91,120,0
+21,Non-binary,Biology,1438,249,392,617,127,37,28,174,1
+18,1,Psychology,702,298,237,497,150,46,62,130,Credit/Debit Card
+20,0,Biology,1433,288,397,589,51,135,100,112,Credit/Debit Card
+25,1,Psychology,1444,260,207,829,122,109,37,69,0
+22,1,Psychology,536,86,326,413,104,99,69,157,0
+18,Non-binary,Engineering,1260,87,296,637,86,50,54,137,Credit/Debit Card
+18,Non-binary,Biology,701,152,337,969,65,113,99,159,0
+18,1,Engineering,1309,152,171,728,116,107,85,78,0
+18,Non-binary,Economics,842,279,202,473,156,120,81,78,Credit/Debit Card
+24,0,Computer Science,617,256,231,837,152,41,74,106,Credit/Debit Card
+21,Non-binary,Engineering,1134,199,370,714,96,114,82,24,0
+23,Non-binary,Psychology,992,58,187,495,114,132,96,179,1
+18,Non-binary,Economics,1408,150,320,477,78,150,81,24,1
+21,1,Biology,1368,114,334,405,59,23,67,22,1
+22,0,Economics,716,216,358,789,186,78,74,109,0
+22,Non-binary,Psychology,1224,188,264,936,55,126,47,26,Credit/Debit Card
+19,Non-binary,Biology,1349,147,106,421,160,39,89,43,0
+24,1,Engineering,802,135,213,724,95,103,70,123,0
+18,1,Psychology,973,178,375,913,183,122,94,148,0
+19,1,Engineering,736,279,342,478,75,43,49,57,1
+22,0,Engineering,571,275,181,648,56,86,57,110,1
+25,1,Engineering,833,201,147,615,90,81,30,121,0
+22,1,Computer Science,713,269,329,592,120,46,53,153,Credit/Debit Card
+20,0,Economics,1268,258,264,661,157,52,38,44,0
+19,Non-binary,Biology,819,115,153,858,200,76,90,44,1
+18,0,Economics,1268,120,339,483,159,55,22,78,Credit/Debit Card
+18,1,Engineering,1486,276,178,661,64,80,69,26,1
+24,0,Computer Science,1005,200,262,687,148,138,53,80,0
+25,1,Economics,1205,112,183,593,142,77,59,78,Credit/Debit Card
+24,0,Engineering,1356,153,109,747,170,46,40,120,1
+22,0,Engineering,817,142,382,716,135,21,29,41,1
+22,0,Biology,706,93,139,874,183,41,47,109,0
+18,Non-binary,Economics,1102,118,230,669,122,41,74,140,0
+22,0,Engineering,1279,77,265,471,148,68,37,157,Credit/Debit Card
+18,0,Economics,1457,167,375,957,139,141,31,55,Credit/Debit Card
+21,1,Psychology,1306,277,326,569,100,91,85,79,0
+25,0,Engineering,1309,290,309,495,152,84,99,93,Credit/Debit Card
+19,0,Biology,1482,233,294,433,144,149,59,96,Credit/Debit Card
+23,0,Economics,1468,129,107,563,74,119,24,173,1
+25,1,Economics,869,158,387,544,161,48,80,129,Credit/Debit Card
+18,0,Economics,886,150,155,808,169,24,60,195,1
+19,1,Economics,1443,108,190,511,152,88,61,103,1
+23,Non-binary,Biology,766,238,254,880,174,50,48,97,0
+22,Non-binary,Biology,1403,57,331,761,179,97,67,56,0
+24,Non-binary,Engineering,1372,50,386,432,184,65,83,61,Credit/Debit Card
+23,Non-binary,Biology,1428,271,332,816,127,100,22,60,1
+19,0,Biology,1303,244,387,511,179,68,100,154,0
+20,Non-binary,Economics,572,118,360,438,72,80,45,30,Credit/Debit Card
+23,Non-binary,Economics,558,113,183,865,60,128,38,167,Credit/Debit Card
+23,1,Engineering,1049,52,116,663,162,110,21,63,1
+18,1,Computer Science,923,249,384,409,117,76,68,128,Credit/Debit Card
+18,1,Engineering,621,289,252,558,109,82,51,100,0
+21,Non-binary,Economics,660,89,123,731,88,67,64,26,1
+21,Non-binary,Biology,528,100,127,899,184,21,55,134,1
+23,1,Psychology,640,275,195,513,144,33,63,90,1
+18,1,Computer Science,1427,136,224,797,161,87,59,20,1
+18,0,Computer Science,527,292,133,532,134,62,50,127,0
+25,1,Psychology,1295,190,358,764,142,121,77,113,0
+23,1,Economics,1219,184,168,551,126,41,67,35,0
+24,1,Engineering,959,153,318,593,188,150,89,102,0
+18,Non-binary,Biology,1483,103,328,569,159,126,92,20,Credit/Debit Card
+19,Non-binary,Psychology,646,88,309,857,77,66,98,153,1
+23,0,Biology,818,194,222,662,160,28,98,166,Credit/Debit Card
+18,0,Engineering,1268,168,304,483,119,34,95,172,Credit/Debit Card
+22,Non-binary,Biology,563,128,249,953,181,54,54,122,1
+21,0,Psychology,1253,235,278,404,178,58,69,101,Credit/Debit Card
+18,Non-binary,Engineering,791,102,269,628,116,55,58,136,0
+22,Non-binary,Psychology,847,172,375,999,165,44,51,125,0
+24,0,Economics,668,176,280,635,166,112,83,41,1
+24,0,Computer Science,1022,142,121,832,137,54,65,170,0
+20,Non-binary,Economics,725,219,363,440,85,24,73,33,0
+24,Non-binary,Biology,733,212,214,427,71,136,73,157,Credit/Debit Card
+18,Non-binary,Engineering,684,265,322,884,140,20,99,164,1
+20,0,Psychology,604,54,216,622,141,90,98,137,1
+23,0,Engineering,1346,292,120,799,125,140,47,74,1
+23,Non-binary,Biology,1464,170,364,493,61,93,23,191,Credit/Debit Card
+18,0,Psychology,1258,195,370,537,195,84,57,71,0
+22,0,Economics,925,173,227,718,80,70,88,43,0
+18,0,Computer Science,927,227,217,748,146,97,46,38,1
+20,Non-binary,Engineering,1230,247,216,430,55,74,90,162,1
+23,Non-binary,Psychology,1437,55,375,852,99,150,21,68,Credit/Debit Card
+21,1,Computer Science,989,152,377,919,159,115,40,176,Credit/Debit Card
+19,0,Biology,910,294,365,422,164,146,34,24,0
+18,0,Computer Science,1323,235,369,701,60,44,78,139,0
+20,1,Engineering,668,283,243,453,84,132,72,99,1
+25,1,Biology,1004,297,126,835,179,23,52,104,Credit/Debit Card
+21,1,Economics,1415,175,347,967,114,100,30,120,Credit/Debit Card
+18,0,Engineering,948,205,344,812,111,139,94,43,Credit/Debit Card
+21,Non-binary,Biology,1010,60,356,972,170,67,54,100,1
+19,1,Biology,873,166,111,423,120,116,68,30,Credit/Debit Card
+19,1,Computer Science,921,173,212,677,78,52,33,69,0
+19,1,Engineering,1459,295,299,619,145,96,71,170,1
+25,0,Biology,672,290,362,420,64,131,53,83,Credit/Debit Card
+23,Non-binary,Engineering,1461,112,120,500,65,83,41,107,1
+24,0,Psychology,1492,205,234,468,76,58,80,66,Credit/Debit Card
+19,0,Computer Science,627,155,188,937,177,137,97,180,0
+23,0,Computer Science,961,155,393,781,56,64,86,48,1
+22,0,Engineering,954,227,332,664,183,36,69,68,Credit/Debit Card
+20,Non-binary,Biology,1486,72,119,757,135,114,47,136,1
+24,1,Psychology,1331,258,335,949,125,94,94,127,1
+21,1,Computer Science,551,61,335,930,59,41,60,151,0
+18,Non-binary,Biology,1352,151,264,718,196,114,26,57,Credit/Debit Card
+22,1,Engineering,1437,217,319,497,161,23,81,149,1
+25,Non-binary,Biology,1146,114,295,707,127,97,30,24,1
+21,0,Biology,1341,262,364,850,183,129,26,130,Credit/Debit Card
+25,1,Biology,1331,88,155,750,184,87,72,53,1
+25,0,Computer Science,1195,178,258,624,183,122,91,94,1
+24,Non-binary,Psychology,1247,190,158,638,196,92,88,68,0
+25,1,Biology,663,282,389,420,97,144,84,167,0
+23,1,Engineering,861,208,143,924,190,114,82,71,Credit/Debit Card
+23,0,Economics,568,233,300,620,92,75,52,109,Credit/Debit Card
+20,1,Psychology,802,265,179,568,64,124,51,123,Credit/Debit Card
+24,0,Economics,821,52,174,719,133,76,65,39,0
+19,1,Computer Science,1009,156,300,511,189,150,54,46,Credit/Debit Card
+19,Non-binary,Computer Science,526,54,215,940,109,31,80,42,1
+22,1,Computer Science,502,53,153,473,54,92,50,70,1
+19,Non-binary,Biology,860,117,203,503,171,29,31,196,1
+18,Non-binary,Economics,1420,277,168,835,102,57,47,196,0
+21,1,Computer Science,540,100,221,651,135,21,39,183,1
+25,Non-binary,Psychology,737,293,288,562,62,103,89,162,1
+22,Non-binary,Psychology,503,175,276,843,177,37,26,165,0
+22,1,Computer Science,673,298,279,828,95,97,21,162,1
+25,1,Psychology,681,51,209,848,118,112,83,172,0
+22,0,Computer Science,1356,238,347,599,200,77,65,196,1
+25,1,Computer Science,1062,191,298,946,117,116,36,159,Credit/Debit Card
+18,0,Economics,1399,67,157,703,182,41,81,28,0
+19,1,Engineering,1402,87,305,715,134,100,100,144,0
+24,Non-binary,Engineering,1184,183,376,490,168,102,73,123,0
+21,0,Economics,743,201,305,746,51,55,74,91,0
+25,0,Biology,1384,240,286,462,158,90,24,115,1
+20,0,Biology,997,142,167,589,130,24,70,57,Credit/Debit Card
+24,0,Engineering,618,184,335,626,118,22,75,65,Credit/Debit Card
+25,1,Psychology,1320,262,236,559,122,95,61,65,0
+25,0,Computer Science,959,162,369,402,67,106,24,87,0
+20,Non-binary,Psychology,950,90,207,916,97,42,78,48,1
+24,Non-binary,Economics,1286,108,263,973,60,115,22,168,Credit/Debit Card
+19,Non-binary,Computer Science,893,240,156,981,141,125,59,26,0
+18,1,Psychology,1126,136,182,624,100,86,66,30,0
+22,0,Biology,679,147,180,674,152,133,58,159,1
+25,0,Psychology,803,143,143,859,173,142,96,30,Credit/Debit Card
+18,1,Biology,664,230,213,963,70,150,74,113,Credit/Debit Card
+18,0,Computer Science,1500,173,298,772,182,112,66,103,0
+22,0,Psychology,1005,113,158,865,56,102,71,196,Credit/Debit Card
+22,1,Biology,883,240,243,751,168,138,20,93,Credit/Debit Card
+18,Non-binary,Biology,1428,209,118,822,184,27,50,129,0
+21,Non-binary,Economics,906,300,338,713,126,86,46,122,0
+18,Non-binary,Computer Science,991,82,315,518,98,139,94,151,0
+23,1,Engineering,1246,222,372,504,107,104,31,182,1
+22,1,Biology,1273,134,168,887,197,140,60,136,Credit/Debit Card
+22,0,Psychology,880,266,105,415,182,58,68,36,Credit/Debit Card
+24,Non-binary,Computer Science,1356,284,369,901,156,114,76,102,Credit/Debit Card
+23,1,Economics,916,173,249,411,157,69,71,189,Credit/Debit Card
+18,Non-binary,Economics,1059,168,175,836,131,30,81,31,Credit/Debit Card
+24,1,Psychology,941,233,214,617,113,109,49,176,Credit/Debit Card
+24,0,Psychology,764,163,142,828,117,73,32,51,1
+25,Non-binary,Economics,983,255,246,613,126,146,20,197,0
+18,Non-binary,Biology,1295,172,112,647,137,106,88,32,1
+22,1,Computer Science,1301,99,141,519,57,76,70,199,0
+22,Non-binary,Biology,829,286,146,702,88,144,37,191,0
+22,Non-binary,Psychology,1296,56,147,759,143,128,72,190,Credit/Debit Card
+21,0,Biology,1278,145,360,513,81,48,70,140,Credit/Debit Card
+18,1,Biology,725,59,169,643,164,137,76,42,Credit/Debit Card
+20,0,Biology,525,118,187,889,85,24,85,108,0
+25,Non-binary,Biology,1006,195,167,583,74,22,75,107,1
+20,0,Biology,872,249,220,470,167,122,47,128,1
+20,Non-binary,Engineering,549,117,270,409,66,61,75,30,Credit/Debit Card
+20,Non-binary,Engineering,885,60,135,726,60,69,27,179,0
+19,1,Computer Science,1197,104,180,695,91,106,31,21,1
+25,0,Psychology,539,106,209,869,71,116,41,36,0
+22,0,Computer Science,804,294,291,577,167,64,64,137,0
+25,Non-binary,Economics,1109,272,359,946,123,88,27,125,1
+25,1,Computer Science,1126,215,374,823,125,90,77,99,Credit/Debit Card
+22,Non-binary,Economics,849,118,364,830,113,60,35,192,0
+23,Non-binary,Psychology,503,136,361,696,121,141,60,72,Credit/Debit Card
+20,0,Biology,1293,134,324,913,149,103,86,120,1
+20,0,Biology,903,160,294,502,77,96,23,73,Credit/Debit Card
+23,Non-binary,Psychology,1149,206,308,503,171,144,82,60,Credit/Debit Card
+20,Non-binary,Biology,1363,231,132,536,137,107,91,72,1
+19,Non-binary,Engineering,1056,214,100,593,157,113,50,200,0
+18,0,Engineering,1245,89,397,836,136,110,29,186,1
+25,1,Computer Science,1149,162,301,849,112,141,74,108,1
+19,1,Psychology,1226,159,350,494,192,34,52,62,0
+22,Non-binary,Engineering,965,116,205,466,191,65,61,188,1
+21,0,Engineering,1338,151,179,658,79,116,30,24,Credit/Debit Card
+20,0,Engineering,1414,170,186,752,139,64,46,96,Credit/Debit Card
+24,Non-binary,Psychology,1232,64,248,485,52,94,75,46,1
+18,0,Engineering,528,93,286,477,87,29,76,65,0
+22,0,Computer Science,1377,87,335,482,133,33,57,98,Credit/Debit Card
+23,Non-binary,Computer Science,1078,211,248,887,152,52,24,130,Credit/Debit Card
+20,0,Computer Science,766,174,226,898,60,86,22,111,0
+22,Non-binary,Engineering,1289,182,229,529,59,35,64,77,Credit/Debit Card
+21,0,Economics,887,60,309,731,194,109,86,140,0
+18,0,Biology,1040,197,206,919,81,48,60,70,0
+21,1,Engineering,940,62,352,951,108,62,70,150,Credit/Debit Card
+25,0,Biology,895,92,157,489,94,21,23,113,1
+25,0,Psychology,1113,156,201,533,133,146,61,87,Credit/Debit Card
+24,Non-binary,Biology,982,213,264,830,126,52,62,54,0
+22,0,Psychology,1401,280,331,769,149,38,33,167,Credit/Debit Card
+18,0,Psychology,772,51,359,765,133,23,61,171,1
+20,0,Economics,912,225,261,487,199,115,34,144,Credit/Debit Card
+23,1,Economics,946,148,380,409,179,81,59,96,0
+23,Non-binary,Biology,834,216,127,565,102,119,93,82,1
+24,0,Psychology,695,109,340,438,77,63,24,82,0
+20,0,Biology,1479,254,238,854,93,118,22,67,0
+21,Non-binary,Economics,994,133,144,415,172,41,88,199,1
+25,1,Biology,843,193,126,604,195,107,53,72,1
+21,Non-binary,Biology,1412,103,295,917,191,22,85,140,1
+22,0,Computer Science,727,155,325,733,182,42,81,176,Credit/Debit Card
+25,0,Computer Science,622,266,290,862,200,21,44,77,1
+23,1,Computer Science,1392,168,287,954,101,55,52,99,Credit/Debit Card
+19,0,Computer Science,1491,287,191,792,144,81,36,186,Credit/Debit Card
+22,Non-binary,Engineering,1038,184,202,791,93,105,48,160,1
+24,1,Biology,854,247,249,990,198,135,27,67,1
+21,0,Biology,1415,275,254,857,156,148,54,87,0
+18,Non-binary,Economics,1136,219,144,642,121,149,80,146,1
+22,Non-binary,Computer Science,971,50,163,979,134,85,86,80,Credit/Debit Card
+20,Non-binary,Economics,1115,229,332,442,149,116,69,160,1
+20,Non-binary,Biology,523,156,256,417,188,105,77,41,0
+24,Non-binary,Psychology,533,220,203,850,166,91,34,138,Credit/Debit Card
+19,1,Psychology,1129,218,131,691,147,38,38,100,0
+22,Non-binary,Economics,739,108,281,900,111,121,29,46,Credit/Debit Card
+18,1,Engineering,1099,270,287,973,98,146,100,129,1
+25,Non-binary,Psychology,610,209,256,887,57,84,76,104,1
+23,0,Biology,1305,178,274,844,120,28,28,73,Credit/Debit Card
+23,1,Engineering,1263,135,141,825,117,45,39,114,0
+23,1,Engineering,656,261,172,770,111,78,99,74,0
+22,1,Economics,975,122,249,752,93,125,56,50,Credit/Debit Card
+25,0,Computer Science,1459,243,142,892,51,128,83,35,1
+25,Non-binary,Biology,1302,196,252,561,88,84,27,121,1
+18,1,Computer Science,1115,197,262,733,118,97,79,52,1
+24,Non-binary,Engineering,816,54,181,498,103,67,68,141,1
+24,Non-binary,Engineering,1358,216,136,696,77,70,89,163,1
+20,1,Psychology,1054,191,266,998,170,137,100,81,0
+24,Non-binary,Engineering,1372,211,262,669,76,138,83,109,Credit/Debit Card
+24,Non-binary,Engineering,1101,291,341,423,155,111,75,52,1
+23,0,Engineering,1258,238,250,745,121,101,60,113,0
+23,0,Biology,1399,116,289,612,169,148,74,82,0
+21,0,Biology,1469,239,272,505,56,23,57,183,0
+23,0,Engineering,560,174,100,554,122,109,92,115,0
+24,0,Engineering,527,288,349,462,171,145,92,125,Credit/Debit Card
+20,0,Biology,1165,255,132,869,91,56,37,61,1
+25,0,Computer Science,996,243,351,765,148,31,58,176,Credit/Debit Card
+24,0,Engineering,630,87,377,921,193,142,60,58,0
+19,0,Engineering,542,237,332,838,67,74,80,175,1
+19,Non-binary,Psychology,648,215,267,696,104,79,96,44,Credit/Debit Card
+22,Non-binary,Computer Science,639,265,338,463,80,51,80,137,Credit/Debit Card
+18,Non-binary,Engineering,729,191,378,670,122,145,94,101,0
+19,0,Computer Science,1021,191,282,875,57,42,40,157,1
+23,0,Economics,1229,85,216,953,85,143,37,185,Credit/Debit Card
+21,0,Engineering,660,112,194,547,59,98,23,64,Credit/Debit Card
+21,Non-binary,Computer Science,1343,289,238,759,75,107,41,44,0
+25,Non-binary,Computer Science,833,245,330,525,50,112,89,155,0
+22,0,Computer Science,555,64,354,534,69,33,48,26,0
+22,0,Engineering,541,288,264,409,79,59,43,33,Credit/Debit Card
+22,Non-binary,Economics,748,108,389,721,71,89,93,170,Credit/Debit Card
+21,1,Engineering,1477,95,296,851,53,134,61,134,0
+22,Non-binary,Biology,1236,256,175,773,145,122,60,169,Credit/Debit Card
+25,0,Biology,592,280,137,939,127,59,75,85,0
+25,1,Computer Science,558,273,349,895,89,45,83,143,1
+23,0,Engineering,925,268,178,776,106,105,39,108,Credit/Debit Card
+18,0,Computer Science,719,111,312,494,149,126,73,169,1
+24,1,Engineering,981,102,201,852,167,118,72,110,Credit/Debit Card
+25,Non-binary,Economics,1381,257,269,464,88,105,47,66,Credit/Debit Card
+18,Non-binary,Biology,929,162,324,615,73,150,58,77,0
+24,0,Biology,1245,95,255,459,128,44,47,191,1
+20,1,Economics,691,262,152,748,53,118,91,71,1
+24,1,Psychology,1326,183,129,852,166,91,85,141,Credit/Debit Card
+18,Non-binary,Psychology,1000,144,371,559,104,70,63,105,Credit/Debit Card
+25,0,Computer Science,592,275,119,694,93,92,58,160,Credit/Debit Card
+22,0,Economics,1227,238,218,951,199,73,79,67,1
+20,1,Engineering,575,141,378,506,66,66,75,99,0
+19,1,Engineering,1298,221,222,444,168,98,61,69,Credit/Debit Card
+23,0,Engineering,1141,108,121,572,184,41,55,86,0
+25,0,Biology,703,278,295,735,100,39,80,190,Credit/Debit Card
+23,1,Economics,929,159,213,418,83,87,54,135,1
+23,Non-binary,Engineering,1415,297,148,513,157,104,42,161,1
+18,Non-binary,Engineering,1359,246,263,995,193,32,23,120,Credit/Debit Card
+23,0,Biology,1162,113,259,630,117,127,94,130,0
+18,1,Biology,663,215,176,632,89,57,61,107,Credit/Debit Card
+18,Non-binary,Economics,1432,265,224,929,108,69,22,151,Credit/Debit Card
+20,Non-binary,Computer Science,663,277,191,695,147,23,73,179,1
+18,Non-binary,Economics,1327,157,363,940,153,88,98,20,Credit/Debit Card
+22,0,Psychology,1045,209,269,610,71,49,83,183,Credit/Debit Card
+21,0,Computer Science,619,87,380,793,89,135,36,84,Credit/Debit Card
+21,Non-binary,Economics,815,241,355,433,84,89,67,41,0
+20,Non-binary,Biology,728,293,152,967,139,96,39,157,0
+21,0,Economics,941,81,390,722,135,131,69,38,1
+18,0,Psychology,1176,278,211,838,60,121,21,164,Credit/Debit Card
+22,Non-binary,Computer Science,1092,151,187,731,93,63,55,118,Credit/Debit Card
+18,1,Biology,1439,134,176,896,86,63,52,129,1
+22,0,Economics,816,90,350,543,101,103,24,150,Credit/Debit Card
+18,0,Biology,1413,250,264,457,71,127,54,120,0
+24,1,Biology,1076,167,134,464,99,97,34,149,0
+21,1,Economics,559,237,222,431,103,80,56,176,Credit/Debit Card
+23,0,Engineering,1144,179,381,405,130,106,94,50,Credit/Debit Card
+20,Non-binary,Psychology,1296,238,191,462,69,93,51,102,Credit/Debit Card
+24,0,Engineering,958,72,262,425,156,137,21,135,0
+25,0,Economics,775,84,115,680,182,128,26,93,Credit/Debit Card
+25,Non-binary,Economics,1483,270,145,970,168,23,39,186,1
+19,0,Biology,1304,191,184,651,102,148,67,50,1
+24,1,Biology,1400,294,359,749,163,132,20,82,1
+24,Non-binary,Computer Science,1440,187,271,759,75,77,66,71,1
+22,1,Economics,1460,265,311,771,62,53,96,77,Credit/Debit Card
+20,Non-binary,Biology,1379,288,192,927,119,137,59,33,Credit/Debit Card
+18,1,Computer Science,942,206,108,914,50,24,56,70,1
+25,Non-binary,Biology,740,156,366,473,83,62,33,78,0
+18,1,Psychology,1186,114,291,541,111,42,49,131,0
+23,0,Biology,731,234,148,582,74,27,68,48,0
+20,0,Economics,1347,167,310,974,98,35,43,37,0
+19,1,Biology,1085,295,159,705,182,132,66,54,0
+22,0,Biology,665,232,151,967,50,118,75,148,1
+22,0,Economics,1422,251,332,663,148,130,61,117,0
+24,0,Biology,1366,146,389,921,127,44,93,30,1
+21,1,Engineering,714,184,149,853,66,35,21,72,1
+25,0,Psychology,1259,226,200,747,94,142,39,65,Credit/Debit Card
+19,1,Economics,975,165,368,936,179,144,89,120,1
+24,1,Engineering,1420,175,151,841,190,20,97,71,0
+24,Non-binary,Engineering,604,188,217,554,66,122,32,150,0
+25,Non-binary,Economics,1250,92,125,679,98,120,39,188,0
+20,Non-binary,Computer Science,567,144,375,842,96,112,47,48,1
+25,1,Computer Science,546,237,286,978,100,60,58,137,0
+18,Non-binary,Economics,1169,288,334,996,83,78,56,180,1
+23,Non-binary,Economics,834,298,350,692,88,150,90,34,Credit/Debit Card
+19,Non-binary,Computer Science,1117,121,212,940,87,139,41,158,1
+25,0,Economics,677,219,313,841,52,66,42,84,1
+20,Non-binary,Engineering,1433,112,327,904,77,146,71,117,0
+20,1,Biology,889,201,247,524,82,102,92,30,Credit/Debit Card
+21,0,Biology,670,182,386,649,146,132,48,155,Credit/Debit Card
+19,0,Economics,645,148,158,904,69,60,98,72,Credit/Debit Card
+21,1,Psychology,1107,210,289,720,124,35,51,168,1
+22,1,Psychology,750,58,104,563,191,22,97,99,0
+21,0,Biology,654,57,124,802,56,41,56,196,1
+20,0,Psychology,1141,204,284,696,83,63,46,55,0
+22,1,Biology,811,126,300,815,120,22,93,152,0
+23,1,Engineering,1452,148,317,822,77,91,61,122,1
+20,Non-binary,Psychology,1255,190,400,465,68,24,70,160,1
+24,1,Computer Science,737,199,303,780,111,62,94,57,Credit/Debit Card
+25,0,Engineering,1419,114,220,444,148,65,29,35,Credit/Debit Card
+23,Non-binary,Computer Science,815,165,132,446,165,58,99,111,0
+25,0,Engineering,1034,255,238,517,110,86,77,56,Credit/Debit Card
+24,Non-binary,Computer Science,1022,165,139,413,167,75,57,43,1
+23,1,Biology,1341,137,300,514,122,40,61,100,0
+20,1,Engineering,999,228,269,507,119,99,49,53,1
+21,0,Psychology,1218,186,280,684,131,103,85,126,1
+24,0,Economics,1332,79,399,796,199,54,86,129,0
+20,Non-binary,Biology,903,90,319,798,60,101,24,170,Credit/Debit Card
+25,Non-binary,Biology,932,190,345,472,61,119,69,40,1
+21,1,Biology,634,105,334,774,193,83,46,150,0
+25,0,Biology,553,150,140,736,68,99,33,199,Credit/Debit Card
+21,0,Economics,547,248,192,510,123,57,28,122,0
+18,0,Computer Science,867,232,320,944,165,96,73,183,0
+20,0,Economics,863,227,371,966,66,117,32,83,1
+25,Non-binary,Biology,603,248,231,420,126,74,32,193,1
+21,1,Computer Science,1480,254,259,799,100,93,66,55,Credit/Debit Card
+18,0,Engineering,522,284,174,706,80,90,61,181,1
+22,1,Biology,1376,59,132,460,159,88,38,76,0
+22,Non-binary,Computer Science,1195,74,115,455,117,129,93,190,Credit/Debit Card
+24,Non-binary,Psychology,1223,135,128,821,50,96,67,196,Credit/Debit Card
+21,1,Computer Science,613,71,219,834,57,89,39,93,0
+25,Non-binary,Engineering,844,230,179,840,189,128,74,131,1
+24,1,Computer Science,620,289,332,726,144,92,24,127,0
+22,0,Psychology,983,58,114,978,103,123,72,63,Credit/Debit Card
+25,0,Biology,996,115,317,520,121,47,89,81,1
+18,0,Engineering,1106,260,165,881,166,23,32,34,0
+23,Non-binary,Engineering,1032,67,364,987,176,74,52,67,Credit/Debit Card
+20,1,Biology,1419,78,261,648,151,55,31,72,Credit/Debit Card
+22,0,Economics,610,139,298,473,164,45,67,113,0
+19,1,Economics,1449,293,109,885,57,70,90,33,0
+25,0,Engineering,1270,291,286,484,132,138,48,41,Credit/Debit Card
+18,Non-binary,Computer Science,770,140,273,814,55,134,61,39,1
+25,Non-binary,Psychology,911,165,338,578,122,25,87,94,Credit/Debit Card
+18,1,Biology,1303,249,242,701,183,103,79,52,Credit/Debit Card
+19,Non-binary,Engineering,1367,177,372,452,162,29,66,155,Credit/Debit Card
+25,Non-binary,Computer Science,509,281,243,779,153,108,52,192,Credit/Debit Card
+22,0,Engineering,804,199,153,892,173,32,84,46,0
+23,1,Computer Science,1268,215,204,898,187,113,81,57,Credit/Debit Card
+22,Non-binary,Engineering,1492,275,277,823,186,141,61,34,0
+23,Non-binary,Biology,1402,147,321,904,138,114,33,179,0
+24,Non-binary,Psychology,673,257,355,818,103,35,47,48,Credit/Debit Card
+22,1,Biology,1174,175,329,426,191,29,34,171,0
+20,1,Biology,635,228,194,969,196,81,68,185,Credit/Debit Card
+23,0,Engineering,792,72,224,631,100,73,28,140,Credit/Debit Card
+22,Non-binary,Biology,998,270,151,565,71,78,98,125,1
+21,Non-binary,Biology,866,252,267,773,100,32,26,82,Credit/Debit Card
+23,Non-binary,Biology,1408,262,223,905,168,124,31,189,0
+25,Non-binary,Biology,732,245,395,742,154,130,73,80,Credit/Debit Card
+18,Non-binary,Engineering,1107,213,144,738,131,53,38,47,0
+24,1,Engineering,1165,124,333,859,196,109,49,29,0
+19,1,Computer Science,1316,226,110,627,185,25,34,135,Credit/Debit Card
+21,Non-binary,Psychology,1471,241,312,862,180,70,90,121,0
+18,Non-binary,Psychology,536,185,375,498,128,63,97,36,0
+21,0,Economics,1045,246,157,937,164,25,29,77,Credit/Debit Card
+24,Non-binary,Biology,609,77,393,934,68,33,96,186,1
+20,0,Psychology,581,84,106,775,86,22,68,172,1
+20,1,Biology,1106,231,130,461,175,135,37,168,Credit/Debit Card
+22,Non-binary,Psychology,1316,268,382,682,69,62,95,22,Credit/Debit Card
+19,Non-binary,Computer Science,574,296,372,605,82,39,42,133,Credit/Debit Card
+19,0,Biology,1115,281,306,482,161,150,76,193,1
+25,0,Engineering,1257,246,373,809,147,78,36,197,Credit/Debit Card
+23,0,Economics,1069,93,218,503,83,72,65,144,0
+22,Non-binary,Biology,757,253,359,719,69,145,48,79,Credit/Debit Card
+21,Non-binary,Psychology,794,222,371,908,73,103,41,109,0
+22,0,Computer Science,1139,255,356,893,126,20,65,25,Credit/Debit Card
+23,Non-binary,Engineering,598,91,278,413,130,88,60,27,0
+21,1,Economics,514,56,395,494,92,104,66,135,1
+23,0,Psychology,1479,239,344,960,103,63,95,185,1
+24,Non-binary,Biology,633,268,252,685,128,107,74,23,Credit/Debit Card
+25,Non-binary,Biology,1437,274,286,941,104,100,21,188,Credit/Debit Card
+22,0,Biology,1135,87,370,793,115,93,36,41,Credit/Debit Card
+21,1,Engineering,1433,187,313,832,123,134,62,102,0
+20,1,Computer Science,824,224,249,538,127,72,76,183,Credit/Debit Card
+24,0,Psychology,967,256,284,958,107,129,85,45,1
+25,0,Economics,1126,226,343,405,159,98,24,160,1
+21,1,Psychology,885,241,136,832,66,123,66,53,Credit/Debit Card
+25,Non-binary,Psychology,525,192,359,670,148,38,56,86,Credit/Debit Card
+20,0,Psychology,1009,136,262,699,117,24,67,45,1
+18,Non-binary,Psychology,1478,112,360,957,77,22,50,92,1
+19,0,Computer Science,547,186,316,645,58,120,54,119,1
+22,1,Psychology,549,82,304,749,167,142,100,153,Credit/Debit Card
+25,1,Engineering,1326,73,205,734,91,95,71,140,1
+21,0,Psychology,761,256,375,594,53,55,41,35,0
+25,Non-binary,Computer Science,1344,171,233,809,167,83,60,154,0
+22,0,Biology,895,177,343,456,157,123,75,139,Credit/Debit Card
+23,Non-binary,Economics,1036,299,398,437,134,69,55,123,1
+22,Non-binary,Computer Science,664,136,236,417,75,131,60,116,Credit/Debit Card
+22,Non-binary,Computer Science,1403,149,163,962,129,35,92,114,0
+23,0,Engineering,1094,98,242,622,90,103,77,190,0
+24,1,Computer Science,789,153,206,835,128,137,77,135,1
+25,Non-binary,Biology,587,283,291,797,171,89,26,119,0
+23,0,Biology,509,251,326,607,156,138,45,59,1
+19,0,Computer Science,1382,230,203,853,180,33,55,122,Credit/Debit Card
+25,Non-binary,Engineering,1301,239,121,664,115,126,48,114,1
+23,Non-binary,Engineering,777,194,268,505,181,79,60,65,1
+19,0,Psychology,505,112,129,688,143,130,89,81,0
+24,1,Engineering,866,260,274,756,181,141,47,67,0
+19,0,Biology,1329,108,277,836,92,27,67,87,1
+20,Non-binary,Economics,1372,264,142,505,144,20,64,74,0
+24,0,Economics,1004,297,335,773,118,83,88,159,Credit/Debit Card
+23,Non-binary,Biology,1415,171,111,880,167,90,78,125,0
+20,1,Psychology,639,86,226,780,120,56,23,143,1
+19,0,Economics,1397,127,258,552,123,61,21,186,Credit/Debit Card
+18,1,Economics,935,56,128,724,122,39,53,134,1
+18,Non-binary,Computer Science,882,63,196,502,153,131,80,86,Credit/Debit Card
+20,1,Psychology,1398,165,267,864,181,149,62,194,1
+24,Non-binary,Biology,1461,286,137,519,127,115,29,127,0
+24,0,Engineering,1430,135,336,682,89,76,66,95,1
+22,Non-binary,Biology,953,61,148,924,56,33,70,33,Credit/Debit Card
+19,0,Psychology,1456,131,136,636,177,112,28,128,1
+22,1,Computer Science,892,57,230,437,85,49,27,199,Credit/Debit Card
+20,Non-binary,Psychology,539,215,398,450,107,51,52,158,1
+25,Non-binary,Economics,1024,159,328,798,112,69,24,87,0
+22,1,Biology,1405,67,281,782,52,69,77,196,1
+21,0,Biology,691,136,342,478,58,65,75,136,Credit/Debit Card
+19,1,Biology,1157,170,281,987,77,27,87,68,1
+21,Non-binary,Computer Science,555,207,302,707,195,141,91,67,Credit/Debit Card
+25,Non-binary,Biology,1245,193,285,899,99,106,76,58,Credit/Debit Card
+25,0,Biology,1227,247,365,759,137,97,56,173,Credit/Debit Card
+18,1,Biology,825,268,293,401,75,24,36,125,1
+18,1,Economics,1359,183,283,401,190,60,78,195,Credit/Debit Card
+22,0,Economics,556,174,166,834,130,86,46,145,1
+20,Non-binary,Biology,1110,120,400,586,62,54,30,167,1
+21,Non-binary,Engineering,518,129,157,783,97,122,20,115,1
+19,0,Engineering,932,184,159,833,84,63,80,179,1
+22,1,Computer Science,683,274,101,866,155,131,81,21,1
+24,0,Economics,1397,217,139,637,83,55,48,71,0
+24,Non-binary,Biology,1201,97,140,864,83,85,89,141,Credit/Debit Card
+22,Non-binary,Psychology,1402,120,381,886,193,64,68,118,1
+25,0,Economics,844,109,220,910,71,75,91,123,Credit/Debit Card
+19,1,Biology,1366,240,304,614,163,127,83,152,Credit/Debit Card
+19,0,Biology,923,255,383,519,110,36,31,123,Credit/Debit Card
+21,Non-binary,Biology,542,189,297,987,160,150,26,86,0
+23,1,Biology,1130,262,100,415,160,98,32,149,Credit/Debit Card
+23,Non-binary,Biology,848,101,173,950,167,108,29,128,1
+19,1,Engineering,1022,252,296,982,73,149,79,162,0
+23,Non-binary,Economics,1189,250,190,607,52,140,63,186,Credit/Debit Card
+18,1,Economics,771,295,189,821,173,60,38,187,1
+25,Non-binary,Computer Science,1280,82,206,678,54,49,85,29,Credit/Debit Card
+21,0,Biology,933,273,298,731,123,22,20,128,0
+24,1,Computer Science,1257,300,120,480,107,34,46,195,1
+24,1,Computer Science,1313,212,363,845,190,69,37,79,0
+21,0,Engineering,1034,136,330,758,179,149,63,36,1
+19,0,Psychology,669,170,335,741,78,69,68,166,1
+19,Non-binary,Computer Science,728,139,183,970,178,29,63,175,1
+18,0,Economics,569,195,375,730,118,96,27,136,1
+19,0,Engineering,960,273,161,671,128,40,89,172,0
+18,0,Computer Science,1288,86,191,982,65,107,80,134,0
+22,1,Engineering,556,165,105,689,145,133,71,98,0
+23,0,Engineering,1413,266,386,836,194,29,99,158,0
+25,Non-binary,Biology,957,199,326,923,150,49,88,78,0
+24,Non-binary,Engineering,1084,279,353,520,89,20,68,128,1
+22,0,Psychology,1270,79,304,559,160,95,99,189,1
+24,1,Computer Science,845,153,130,793,51,77,47,63,1
+21,1,Economics,1423,118,312,439,157,56,43,129,0
+19,0,Engineering,683,83,132,643,186,31,68,96,0
+21,Non-binary,Psychology,1309,117,303,973,197,37,64,142,1
+25,0,Economics,888,75,166,806,121,148,69,71,Credit/Debit Card
+24,0,Psychology,1496,200,212,640,140,22,69,70,Credit/Debit Card
+25,0,Economics,965,70,291,737,88,70,34,64,0
+20,1,Biology,1329,262,234,826,131,142,30,40,0
+21,1,Engineering,1021,167,235,844,99,115,53,190,1
+18,0,Biology,501,72,149,612,142,58,36,44,1
+21,1,Engineering,1223,242,128,801,157,135,36,52,1
+19,0,Psychology,1495,82,228,980,126,39,72,190,0
+25,0,Engineering,862,264,338,575,54,39,60,196,0
+25,0,Economics,1037,280,393,894,176,73,21,196,Credit/Debit Card
+19,0,Engineering,505,250,387,835,181,93,91,171,0
+24,1,Psychology,1193,92,120,761,75,104,28,116,Credit/Debit Card
+18,Non-binary,Psychology,1452,176,327,586,65,32,40,58,Credit/Debit Card
+24,Non-binary,Psychology,1422,159,149,892,115,133,90,147,0
+25,0,Biology,717,102,354,696,105,26,95,78,0
+24,1,Economics,1333,192,237,467,183,114,79,41,Credit/Debit Card
+24,1,Psychology,978,183,241,642,146,30,76,21,0
+25,0,Biology,1141,150,397,926,121,122,69,120,1
+22,0,Biology,1399,84,220,678,93,144,49,90,1
+24,0,Psychology,1200,129,330,778,51,24,75,153,0
+21,Non-binary,Economics,1053,280,142,444,139,34,56,147,1
+25,Non-binary,Biology,1118,134,126,592,149,74,48,131,0
+21,0,Biology,1094,50,137,741,172,147,96,56,1
+21,Non-binary,Psychology,1252,69,245,530,126,147,52,24,Credit/Debit Card
+18,0,Psychology,686,265,238,720,191,39,58,82,1
+18,0,Economics,513,181,168,807,161,48,26,58,0
+25,0,Biology,1174,151,149,799,163,138,30,43,0
+24,Non-binary,Psychology,1224,77,209,913,101,85,97,111,0
+23,Non-binary,Biology,975,283,131,769,134,65,91,79,Credit/Debit Card
+18,0,Engineering,1435,87,221,842,139,136,68,54,1
+22,0,Engineering,894,254,373,718,144,139,82,198,Credit/Debit Card
+21,Non-binary,Economics,1168,193,175,637,196,52,90,178,0
+25,0,Computer Science,1482,193,194,540,125,143,78,199,Credit/Debit Card
+19,Non-binary,Psychology,1385,71,399,452,170,145,37,154,1
+20,0,Computer Science,1476,251,225,808,73,22,95,178,1
+22,1,Economics,812,51,195,777,87,71,48,58,1
+18,0,Psychology,1191,164,327,673,62,133,26,152,0
+20,0,Economics,1440,131,135,525,142,34,27,122,0
+24,1,Biology,1447,98,235,406,113,113,50,33,Credit/Debit Card
+21,1,Computer Science,1030,87,100,806,99,46,38,91,1
+23,1,Engineering,1034,271,381,558,116,67,44,184,Credit/Debit Card
+20,1,Economics,1406,286,303,967,94,61,61,62,1
+21,Non-binary,Biology,1086,171,381,605,53,129,24,67,Credit/Debit Card
+25,1,Psychology,1334,160,204,794,129,139,37,67,1
+25,1,Engineering,507,156,181,750,107,79,27,87,0
+21,0,Engineering,1483,217,400,458,90,134,50,42,1
+20,Non-binary,Economics,888,241,207,539,182,71,41,48,Credit/Debit Card
+23,Non-binary,Economics,1204,275,166,871,120,87,77,21,Credit/Debit Card
+23,0,Economics,1047,255,161,667,197,53,96,168,0
+21,0,Psychology,1279,154,336,815,136,145,81,186,Credit/Debit Card
+19,1,Economics,613,151,309,622,99,94,36,141,1
+18,0,Computer Science,1280,119,112,500,99,67,70,109,Credit/Debit Card
+25,0,Economics,696,87,258,475,162,67,68,132,1
+20,1,Economics,1191,169,270,476,152,129,100,157,Credit/Debit Card
+24,1,Biology,1287,246,252,493,98,36,70,114,1
+23,1,Engineering,1391,105,269,697,108,145,43,144,0
+23,Non-binary,Economics,1345,229,173,686,132,115,40,57,Credit/Debit Card
+19,Non-binary,Computer Science,1344,129,333,563,142,111,47,153,0
+23,Non-binary,Economics,779,298,391,876,94,34,34,107,1
+23,1,Economics,1123,233,370,932,141,91,61,187,1
+22,0,Economics,1038,70,366,929,133,93,90,106,Credit/Debit Card
+22,1,Computer Science,595,291,111,572,79,24,71,198,1
+25,Non-binary,Engineering,1345,270,285,621,101,115,55,107,0
+19,Non-binary,Computer Science,534,106,371,520,196,75,56,122,0
+24,Non-binary,Computer Science,1176,134,245,837,93,78,81,40,0
+20,Non-binary,Biology,836,89,243,419,149,72,52,143,1
+18,1,Biology,1047,212,359,620,195,63,94,48,Credit/Debit Card
+24,1,Engineering,865,284,161,936,115,61,100,163,1
+18,Non-binary,Psychology,1148,271,218,613,159,92,67,186,Credit/Debit Card
+21,1,Engineering,696,98,195,710,133,54,66,197,Credit/Debit Card
+19,1,Economics,778,183,398,558,171,71,52,138,Credit/Debit Card
+22,Non-binary,Psychology,1140,236,278,665,183,110,22,22,Credit/Debit Card
+22,1,Computer Science,557,269,112,857,158,40,78,146,0
+24,0,Computer Science,948,81,265,954,181,59,71,33,1
+24,1,Engineering,1249,112,111,653,182,92,84,196,1
+24,Non-binary,Economics,1092,109,240,768,158,111,33,58,Credit/Debit Card
+20,1,Computer Science,717,95,304,447,194,71,49,103,1
+19,1,Computer Science,857,287,255,487,95,31,46,74,0
+18,Non-binary,Biology,1021,98,222,502,161,80,73,85,Credit/Debit Card
+22,1,Psychology,1056,223,278,596,179,47,87,51,1
+25,0,Economics,758,62,101,534,76,65,27,26,Credit/Debit Card
+21,Non-binary,Economics,653,236,336,496,84,115,34,125,0
+21,0,Computer Science,643,52,271,793,182,55,99,91,Credit/Debit Card
+25,0,Engineering,668,276,347,653,88,73,95,35,0
+25,1,Psychology,645,69,249,940,63,61,40,75,1
+20,1,Psychology,1020,168,150,408,162,129,98,174,Credit/Debit Card
+20,Non-binary,Computer Science,1128,299,270,602,65,143,58,142,0
+22,0,Economics,1186,160,139,798,59,109,21,32,1
+23,1,Psychology,528,149,209,889,136,105,80,73,1
+25,0,Computer Science,774,183,163,629,75,39,33,125,0
+22,0,Economics,1236,84,274,600,115,55,23,39,Credit/Debit Card
+24,Non-binary,Biology,938,79,190,928,65,111,45,171,1
+22,Non-binary,Computer Science,1169,242,104,508,159,30,78,195,1
+25,0,Computer Science,1061,158,250,949,138,57,20,103,1
+24,Non-binary,Economics,514,158,361,506,84,132,49,99,0
+19,0,Engineering,1015,121,369,827,147,87,49,74,1
+18,0,Computer Science,743,96,223,726,105,73,37,75,1
+21,0,Engineering,913,198,268,714,88,87,31,177,0
+24,Non-binary,Engineering,1142,125,264,867,166,99,69,135,Credit/Debit Card
+25,1,Psychology,868,61,308,443,120,70,96,127,1
+19,Non-binary,Engineering,1464,131,357,490,87,97,67,135,Credit/Debit Card
+21,1,Psychology,1260,193,244,799,62,107,62,130,0
+19,0,Computer Science,1326,62,172,453,87,112,70,32,0
+18,1,Computer Science,1219,296,335,700,152,98,86,27,0
+19,Non-binary,Computer Science,1038,263,207,576,92,54,26,165,Credit/Debit Card
+25,0,Biology,1418,218,370,976,117,89,89,60,1
+18,1,Engineering,1385,76,253,678,119,113,50,169,1
+23,1,Computer Science,553,212,304,960,135,105,54,183,1
+20,0,Economics,1013,191,366,805,62,135,60,172,1
+18,Non-binary,Engineering,1019,112,247,828,65,58,92,126,1
+24,Non-binary,Computer Science,669,60,266,828,59,129,27,165,Credit/Debit Card
+19,1,Computer Science,933,235,371,780,80,84,82,170,1
+20,1,Psychology,1166,238,164,528,117,127,56,108,0
+25,Non-binary,Economics,1197,186,248,637,186,82,58,27,1
+19,1,Biology,973,190,114,555,93,121,70,178,0
+23,1,Computer Science,1381,97,171,646,142,109,83,190,0
+22,0,Psychology,1082,242,276,533,131,109,21,182,Credit/Debit Card
+23,0,Engineering,1160,51,105,810,182,26,64,105,0
+22,1,Computer Science,1011,298,392,475,187,99,73,31,0
+20,Non-binary,Psychology,1412,136,305,443,119,120,41,91,1
+24,Non-binary,Psychology,1391,86,136,755,55,62,66,23,0
+20,0,Economics,1293,87,389,435,192,23,64,137,Credit/Debit Card
+20,0,Psychology,1380,92,277,739,187,144,69,21,1
+22,0,Psychology,764,68,387,589,61,46,96,85,1
+22,1,Biology,1346,151,152,969,194,42,38,163,0
+19,1,Biology,1407,206,265,508,52,40,98,135,1
+20,0,Economics,957,69,339,723,139,112,46,28,1
+22,Non-binary,Economics,1174,200,237,543,123,129,90,65,1
+24,Non-binary,Computer Science,541,215,270,609,191,139,43,145,0
